@@ -40,3 +40,19 @@ console.log(PI);
 // Cannot reassign a const variable.
 // PI = 20; // TypeError: Assignment to constant variable.
 
+
+console.table([a,b,c,d,PI]);
+
+
+
+// Multi line comment
+
+/*
+h
+e
+l
+l
+o
+*/
+
+
