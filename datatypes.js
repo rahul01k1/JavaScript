@@ -1,14 +1,14 @@
 let name = "Rahul"; // string
 
-let age =20.7990; // number  and anather is big int
+let age =20.7990; // number  
 
 let isTeen = true; // bool 
 
-value = null; //null
+value = null;  // object
 
 let  later; // undefined
 
-let person = {
+let person = {        // object
     //block of code 
 }
 
