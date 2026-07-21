@@ -20,3 +20,21 @@ console.log(typeof(value));
 console.log(typeof(later));
 console.log(typeof(person));
 
+
+// notes
+
+
+// types of data type ;
+
+// main two : 1. primitive and  2. refferance
+
+// 1.primitive : 7 types
+
+// number , string , null  , boolean , symbol  , bigInt  , undefined
+
+
+// 2. Refference  (Non Primitive) : 3 types
+
+// arrays , objects , funcitons 
+
+

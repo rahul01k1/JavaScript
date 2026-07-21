@@ -18,5 +18,3 @@ console.log('02' < 1); // false
 
 
 
-
-
